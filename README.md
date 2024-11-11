@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a simple particle simulation**
 
-- 🌱 I’m currently learning **OpenGL, Vulkan, SDL2/3, OOP(C++), Modern C++, DSA**
+- 🌱 I’m currently learning **OpenGL, Vulkan, SDL2/3, DOD & DOP(C++), Modern C++, DSA**
 
 - 📫 How to reach me **ankush3411111@gmail.com**
 
