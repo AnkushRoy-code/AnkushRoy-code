@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush Roy</h1>
 <h3 align="center">A passionate graphics learner from India</h3>
 
-- 🔭 I’m currently working on **a simple particle simulation**
+- 🔭 I’m currently working on **My [Garage](https://github.com/AnkushRoy-code/Garage)**
 
 - 🌱 I’m currently learning **OpenGL, Vulkan, SDL2/3, DOD & DOP(C++), Modern C++, DSA**
 
