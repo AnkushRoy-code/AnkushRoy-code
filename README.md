@@ -16,4 +16,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AnkushRoy-code&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<p>I use Arch(btw) Linux as my daily driver, use Vim(btw). My development environment also consists of i3wm, Polybar and Picom also I don't use qwerty, I use Colemak_dh and that's it folks. If you want you can check my dotfiles in AnkushRoy-code/dotfiles :)</p>
+<p>I use Arch(btw) Linux as my daily driver, use Vim(btw). My development environment also consists of i3wm, Polybar and Picom also I don't use qwerty, I use Colemak_mod_dh and that's it folks. If you want you can check my dotfiles in AnkushRoy-code/dotfiles :)</p>
