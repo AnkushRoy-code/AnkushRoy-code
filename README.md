@@ -21,30 +21,17 @@
 
 ## Stats:
 
-<table width="100%" align="center">
-  <!-- <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushRoy-code&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-        alt="my stats"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=AnkushRoy-code&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"
-        alt="my stats again"
-      />
-    </td>
-  </tr> -->
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12314&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha"
-        alt="my hacktime stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    src="./profile/stats.svg" 
+    alt="Profile Stats"
+  />
+  <br />
+  <img 
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12314&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha" 
+    alt="My Hacktime Stats" 
+  />
+</div>
 
 ## More Yapping
 Hi! I am Ankush Roy a teen from India. I love mathematics and computers. I aspire to become a Graphics Programmer as it consist of all maths, programming and art. I love customising my workstation exactly the way I like, so I use [my own rice](https://github.com/AnkushRoy-code/dotfiles) of Arch Linux (btw) that consist of i3, Polybar, Rofi, Picom. I use Neovim as my editor for everything and have made a [custom config](https://github.com/AnkushRoy-code/dotfiles/tree/main/.config/nvim) from scratch that I use daily. I also use a modified version of Colemak Mod-DH layout in my custom ergonimic split keyboard called [Splitwave](https://github.com/AnkushRoy-code/SplitWave). I live in the terminal and only use my mouse (MX Master 3S) for browsing the web or other very few GUI applications that I use.
