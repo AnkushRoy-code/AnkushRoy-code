@@ -22,7 +22,7 @@
 ## Stats:
 
 <table width="100%" align="center">
-  <tr>
+  <!-- <tr>
     <td align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushRoy-code&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
@@ -35,7 +35,7 @@
         alt="my stats again"
       />
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center" colspan="2">
       <img
